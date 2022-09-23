@@ -30,7 +30,7 @@ text-align: center;
     width: 150px;
     height: 150px;
     border-style: 2px solid;
-    
+    border-color: black;
   }
   p{
     text-align: left;
