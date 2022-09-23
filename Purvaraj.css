@@ -1,0 +1,39 @@
+body
+{
+        background-color: teal;
+        text-align: center;
+        margin: auto;
+        margin-top: 50px;
+        height: 500px;
+        width: 1000px;
+        
+
+}
+div{
+    background-color: silver;
+    border-style: solid;
+    
+}
+div:hover
+{
+    background-color: pink;
+}
+header
+{
+    margin: 20px;
+text-align: center;
+
+}
+
+  
+  img {
+    width: 150px;
+    height: 150px;
+    border-style: 2px solid;
+    border-color: black;
+  }
+  p{
+    text-align: left;
+    margin: auto;
+  }
+  
